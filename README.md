@@ -1,1 +1,1 @@
-# BinarySEarch
+# BinarySearch
